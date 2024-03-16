@@ -1,8 +1,8 @@
 {
-  "name": "pretty-markdown-pdf",
+  "name": "@fullstax/pretty-markdown-pdf",
   "displayName": "Pretty Markdown PDF",
   "description": "Convert Markdown to a Pretty PDF :D",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "publisher": "djfdyuruiry",
   "license": "MIT",
   "repository": {
